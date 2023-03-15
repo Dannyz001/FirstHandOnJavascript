@@ -1,0 +1,40 @@
+.collection{
+    display:flex;
+    gap: 40px;
+}
+
+main{
+    text-align: center;
+}
+
+.box{
+    padding: 20px 60px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 40px;
+}
+.box p{
+    font-size: 30px;
+    color: white;
+}
+
+#green{
+    background-color: green;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#red{
+    background-color: red;
+}
+
+#reset{
+    display: inline-block;
+    border: 3px solid black;
+    border-radius: 360px;
+    padding: 35px;
+    background-color: yellow;
+    justify-self: center;
+}
